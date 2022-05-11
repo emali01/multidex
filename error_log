@@ -1,0 +1,119 @@
+[10-May-2021 10:54:27 America/New_York] PHP Parse error:  syntax error, unexpected '$first_name' (T_VARIABLE) in /home/multzftb/public_html/contact.php on line 12
+[10-May-2021 10:54:30 America/New_York] PHP Parse error:  syntax error, unexpected '$first_name' (T_VARIABLE) in /home/multzftb/public_html/contact.php on line 12
+[10-May-2021 11:00:23 America/New_York] PHP Parse error:  syntax error, unexpected '$first_name' (T_VARIABLE) in /home/multzftb/public_html/contact.php on line 12
+[10-May-2021 11:00:27 America/New_York] PHP Parse error:  syntax error, unexpected '$first_name' (T_VARIABLE) in /home/multzftb/public_html/contact.php on line 12
+[10-May-2021 11:00:29 America/New_York] PHP Parse error:  syntax error, unexpected '$first_name' (T_VARIABLE) in /home/multzftb/public_html/contact.php on line 12
+[10-May-2021 11:00:33 America/New_York] PHP Parse error:  syntax error, unexpected '$first_name' (T_VARIABLE) in /home/multzftb/public_html/contact.php on line 12
+[10-May-2021 11:00:35 America/New_York] PHP Parse error:  syntax error, unexpected '$first_name' (T_VARIABLE) in /home/multzftb/public_html/contact.php on line 12
+[10-May-2021 11:04:51 America/New_York] PHP Parse error:  syntax error, unexpected '$first_name' (T_VARIABLE) in /home/multzftb/public_html/contact.php on line 12
+[10-May-2021 11:04:54 America/New_York] PHP Parse error:  syntax error, unexpected '$first_name' (T_VARIABLE) in /home/multzftb/public_html/contact.php on line 12
+[10-May-2021 11:06:18 America/New_York] PHP Parse error:  syntax error, unexpected '$first_name' (T_VARIABLE) in /home/multzftb/public_html/contact.php on line 12
+[10-May-2021 11:06:21 America/New_York] PHP Parse error:  syntax error, unexpected '$first_name' (T_VARIABLE) in /home/multzftb/public_html/contact.php on line 12
+[10-May-2021 11:06:35 America/New_York] PHP Parse error:  syntax error, unexpected '$first_name' (T_VARIABLE) in /home/multzftb/public_html/contact.php on line 12
+[10-May-2021 11:07:02 America/New_York] PHP Parse error:  syntax error, unexpected '$first_name' (T_VARIABLE) in /home/multzftb/public_html/contact.php on line 12
+[10-May-2021 11:07:40 America/New_York] PHP Parse error:  syntax error, unexpected '$first_name' (T_VARIABLE) in /home/multzftb/public_html/contact.php on line 12
+[10-May-2021 11:07:40 America/New_York] PHP Parse error:  syntax error, unexpected '$first_name' (T_VARIABLE) in /home/multzftb/public_html/contact.php on line 12
+[10-May-2021 11:07:41 America/New_York] PHP Parse error:  syntax error, unexpected '$first_name' (T_VARIABLE) in /home/multzftb/public_html/contact.php on line 12
+[10-May-2021 11:10:28 America/New_York] PHP Parse error:  syntax error, unexpected '$first_name' (T_VARIABLE) in /home/multzftb/public_html/contact.php on line 12
+[10-May-2021 11:10:32 America/New_York] PHP Parse error:  syntax error, unexpected '$first_name' (T_VARIABLE) in /home/multzftb/public_html/contact.php on line 12
+[25-May-2021 09:04:37 America/New_York] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/multzftb/public_html/curl.php on line 21
+[25-May-2021 09:04:39 America/New_York] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/multzftb/public_html/curl.php on line 21
+[25-May-2021 09:06:05 America/New_York] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home/multzftb/public_html/curl.php on line 20
+[25-May-2021 09:06:08 America/New_York] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home/multzftb/public_html/curl.php on line 20
+[25-May-2021 09:06:10 America/New_York] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home/multzftb/public_html/curl.php on line 20
+[25-May-2021 09:07:21 America/New_York] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home/multzftb/public_html/curl.php on line 20
+[25-May-2021 09:07:24 America/New_York] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home/multzftb/public_html/curl.php on line 20
+[25-May-2021 09:20:36 America/New_York] PHP Notice:  Array to string conversion in /home/multzftb/public_html/curl.php on line 20
+[25-May-2021 09:20:43 America/New_York] PHP Notice:  Array to string conversion in /home/multzftb/public_html/curl.php on line 20
+[25-May-2021 09:39:12 America/New_York] PHP Notice:  Undefined index: gtype in /home/multzftb/public_html/curl.php on line 59
+[25-May-2021 09:39:12 America/New_York] PHP Notice:  Undefined index: guess in /home/multzftb/public_html/curl.php on line 60
+[25-May-2021 09:39:12 America/New_York] PHP Notice:  Undefined index: book in /home/multzftb/public_html/curl.php on line 61
+[25-May-2021 09:42:34 America/New_York] PHP Notice:  Undefined index: gtype in /home/multzftb/public_html/curl.php on line 54
+[25-May-2021 09:42:34 America/New_York] PHP Notice:  Undefined index: guess in /home/multzftb/public_html/curl.php on line 55
+[25-May-2021 09:42:34 America/New_York] PHP Notice:  Undefined index: book in /home/multzftb/public_html/curl.php on line 56
+[25-May-2021 09:42:39 America/New_York] PHP Notice:  Undefined index: gtype in /home/multzftb/public_html/curl.php on line 54
+[25-May-2021 09:42:39 America/New_York] PHP Notice:  Undefined index: guess in /home/multzftb/public_html/curl.php on line 55
+[25-May-2021 09:42:39 America/New_York] PHP Notice:  Undefined index: book in /home/multzftb/public_html/curl.php on line 56
+[25-May-2021 09:42:57 America/New_York] PHP Notice:  Undefined index: gtype in /home/multzftb/public_html/curl.php on line 54
+[25-May-2021 09:42:57 America/New_York] PHP Notice:  Undefined index: guess in /home/multzftb/public_html/curl.php on line 55
+[25-May-2021 09:42:57 America/New_York] PHP Notice:  Undefined index: book in /home/multzftb/public_html/curl.php on line 56
+[25-May-2021 09:48:17 America/New_York] PHP Notice:  Undefined index: gtype in /home/multzftb/public_html/curl.php on line 54
+[25-May-2021 09:48:17 America/New_York] PHP Notice:  Undefined index: guess in /home/multzftb/public_html/curl.php on line 55
+[25-May-2021 09:48:17 America/New_York] PHP Notice:  Undefined index: type in /home/multzftb/public_html/curl.php on line 56
+[25-May-2021 09:48:20 America/New_York] PHP Notice:  Undefined index: gtype in /home/multzftb/public_html/curl.php on line 54
+[25-May-2021 09:48:20 America/New_York] PHP Notice:  Undefined index: guess in /home/multzftb/public_html/curl.php on line 55
+[25-May-2021 09:48:20 America/New_York] PHP Notice:  Undefined index: type in /home/multzftb/public_html/curl.php on line 56
+[25-May-2021 09:48:21 America/New_York] PHP Notice:  Undefined index: gtype in /home/multzftb/public_html/curl.php on line 54
+[25-May-2021 09:48:21 America/New_York] PHP Notice:  Undefined index: guess in /home/multzftb/public_html/curl.php on line 55
+[25-May-2021 09:48:21 America/New_York] PHP Notice:  Undefined index: type in /home/multzftb/public_html/curl.php on line 56
+[25-May-2021 09:48:24 America/New_York] PHP Notice:  Undefined index: gtype in /home/multzftb/public_html/curl.php on line 54
+[25-May-2021 09:48:24 America/New_York] PHP Notice:  Undefined index: guess in /home/multzftb/public_html/curl.php on line 55
+[25-May-2021 09:48:24 America/New_York] PHP Notice:  Undefined index: type in /home/multzftb/public_html/curl.php on line 56
+[25-May-2021 10:09:39 America/New_York] PHP Notice:  Undefined index: team_home in /home/multzftb/public_html/curl.php on line 54
+[25-May-2021 10:09:39 America/New_York] PHP Notice:  Undefined index: guess in /home/multzftb/public_html/curl.php on line 55
+[25-May-2021 10:09:39 America/New_York] PHP Notice:  Undefined index: type in /home/multzftb/public_html/curl.php on line 56
+[25-May-2021 10:09:47 America/New_York] PHP Notice:  Undefined index: team_home in /home/multzftb/public_html/curl.php on line 54
+[25-May-2021 10:09:47 America/New_York] PHP Notice:  Undefined index: guess in /home/multzftb/public_html/curl.php on line 55
+[25-May-2021 10:09:47 America/New_York] PHP Notice:  Undefined index: type in /home/multzftb/public_html/curl.php on line 56
+[25-May-2021 10:09:52 America/New_York] PHP Notice:  Undefined index: team_home in /home/multzftb/public_html/curl.php on line 54
+[25-May-2021 10:09:52 America/New_York] PHP Notice:  Undefined index: guess in /home/multzftb/public_html/curl.php on line 55
+[25-May-2021 10:09:52 America/New_York] PHP Notice:  Undefined index: type in /home/multzftb/public_html/curl.php on line 56
+[25-May-2021 10:15:13 America/New_York] PHP Notice:  Undefined offset: 0 in /home/multzftb/public_html/curl.php on line 54
+[25-May-2021 10:15:13 America/New_York] PHP Notice:  Undefined index: guess in /home/multzftb/public_html/curl.php on line 55
+[25-May-2021 10:15:13 America/New_York] PHP Notice:  Undefined index: type in /home/multzftb/public_html/curl.php on line 56
+[25-May-2021 10:15:16 America/New_York] PHP Notice:  Undefined offset: 0 in /home/multzftb/public_html/curl.php on line 54
+[25-May-2021 10:15:16 America/New_York] PHP Notice:  Undefined index: guess in /home/multzftb/public_html/curl.php on line 55
+[25-May-2021 10:15:16 America/New_York] PHP Notice:  Undefined index: type in /home/multzftb/public_html/curl.php on line 56
+[25-May-2021 10:17:57 America/New_York] PHP Notice:  Undefined index: guess in /home/multzftb/public_html/curl.php on line 55
+[25-May-2021 10:17:57 America/New_York] PHP Notice:  Undefined index: type in /home/multzftb/public_html/curl.php on line 56
+[25-May-2021 10:22:49 America/New_York] PHP Notice:  Array to string conversion in /home/multzftb/public_html/curl.php on line 54
+[25-May-2021 10:22:49 America/New_York] PHP Notice:  Undefined index: guess in /home/multzftb/public_html/curl.php on line 55
+[25-May-2021 10:22:49 America/New_York] PHP Notice:  Undefined index: type in /home/multzftb/public_html/curl.php on line 56
+[25-May-2021 10:22:52 America/New_York] PHP Notice:  Array to string conversion in /home/multzftb/public_html/curl.php on line 54
+[25-May-2021 10:22:52 America/New_York] PHP Notice:  Undefined index: guess in /home/multzftb/public_html/curl.php on line 55
+[25-May-2021 10:22:52 America/New_York] PHP Notice:  Undefined index: type in /home/multzftb/public_html/curl.php on line 56
+[25-May-2021 10:22:59 America/New_York] PHP Notice:  Array to string conversion in /home/multzftb/public_html/curl.php on line 54
+[25-May-2021 10:22:59 America/New_York] PHP Notice:  Undefined index: guess in /home/multzftb/public_html/curl.php on line 55
+[25-May-2021 10:22:59 America/New_York] PHP Notice:  Undefined index: type in /home/multzftb/public_html/curl.php on line 56
+[25-May-2021 10:24:10 America/New_York] PHP Notice:  Array to string conversion in /home/multzftb/public_html/curl.php on line 54
+[25-May-2021 10:24:10 America/New_York] PHP Notice:  Undefined index: type in /home/multzftb/public_html/curl.php on line 56
+[25-May-2021 10:25:58 America/New_York] PHP Notice:  Undefined index: type in /home/multzftb/public_html/curl.php on line 56
+[25-May-2021 10:30:46 America/New_York] PHP Notice:  Undefined offset: 0 in /home/multzftb/public_html/curl.php on line 54
+[25-May-2021 10:30:46 America/New_York] PHP Notice:  Undefined offset: 0 in /home/multzftb/public_html/curl.php on line 55
+[25-May-2021 10:30:46 America/New_York] PHP Notice:  Undefined index: type in /home/multzftb/public_html/curl.php on line 59
+[25-May-2021 10:31:43 America/New_York] PHP Notice:  Undefined offset: 0 in /home/multzftb/public_html/curl.php on line 54
+[25-May-2021 10:31:43 America/New_York] PHP Notice:  Undefined offset: 0 in /home/multzftb/public_html/curl.php on line 55
+[25-May-2021 10:31:43 America/New_York] PHP Notice:  Undefined index: type in /home/multzftb/public_html/curl.php on line 59
+[25-May-2021 10:33:47 America/New_York] PHP Notice:  Undefined index: type in /home/multzftb/public_html/curl.php on line 59
+[25-May-2021 10:46:49 America/New_York] PHP Parse error:  syntax error, unexpected '$arr' (T_VARIABLE), expecting ',' or ';' in /home/multzftb/public_html/curl.php on line 54
+[25-May-2021 10:47:55 America/New_York] PHP Parse error:  syntax error, unexpected '$arr' (T_VARIABLE), expecting ',' or ';' in /home/multzftb/public_html/curl.php on line 54
+[25-May-2021 10:47:58 America/New_York] PHP Parse error:  syntax error, unexpected '$arr' (T_VARIABLE), expecting ',' or ';' in /home/multzftb/public_html/curl.php on line 54
+[25-May-2021 10:48:01 America/New_York] PHP Parse error:  syntax error, unexpected '$arr' (T_VARIABLE), expecting ',' or ';' in /home/multzftb/public_html/curl.php on line 54
+[25-May-2021 10:49:30 America/New_York] PHP Parse error:  syntax error, unexpected '$arr' (T_VARIABLE), expecting ',' or ';' in /home/multzftb/public_html/curl.php on line 54
+[25-May-2021 10:53:57 America/New_York] PHP Notice:  Undefined index: type in /home/multzftb/public_html/curl.php on line 59
+[25-May-2021 10:55:13 America/New_York] PHP Notice:  Undefined index: type in /home/multzftb/public_html/curl.php on line 59
+[25-May-2021 10:56:45 America/New_York] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/multzftb/public_html/curl.php on line 55
+[25-May-2021 10:57:13 America/New_York] PHP Notice:  Undefined index: type in /home/multzftb/public_html/curl.php on line 60
+[25-May-2021 10:59:09 America/New_York] PHP Notice:  Undefined index: type in /home/multzftb/public_html/curl.php on line 62
+[25-May-2021 11:01:23 America/New_York] PHP Notice:  Undefined index: type in /home/multzftb/public_html/curl.php on line 62
+[25-May-2021 11:02:21 America/New_York] PHP Notice:  Undefined index: type in /home/multzftb/public_html/curl.php on line 62
+[25-May-2021 11:10:06 America/New_York] PHP Parse error:  syntax error, unexpected '$arr' (T_VARIABLE), expecting ',' or ';' in /home/multzftb/public_html/curl.php on line 63
+[25-May-2021 11:10:09 America/New_York] PHP Parse error:  syntax error, unexpected '$arr' (T_VARIABLE), expecting ',' or ';' in /home/multzftb/public_html/curl.php on line 63
+[25-May-2021 11:10:37 America/New_York] PHP Notice:  Undefined index: type in /home/multzftb/public_html/curl.php on line 65
+[25-May-2021 11:15:49 America/New_York] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/multzftb/public_html/curl.php on line 65
+[25-May-2021 11:15:59 America/New_York] PHP Notice:  Undefined index: type in /home/multzftb/public_html/curl.php on line 67
+[25-May-2021 11:19:57 America/New_York] PHP Notice:  Undefined index: type in /home/multzftb/public_html/curl.php on line 67
+[25-May-2021 12:16:33 America/New_York] PHP Notice:  Undefined index: here in /home/multzftb/public_html/curl.php on line 389
+[25-May-2021 12:16:33 America/New_York] PHP Notice:  Undefined index: here in /home/multzftb/public_html/curl.php on line 391
+[25-May-2021 12:16:33 America/New_York] PHP Notice:  Undefined index: here in /home/multzftb/public_html/curl.php on line 393
+[25-May-2021 12:16:33 America/New_York] PHP Notice:  Undefined index: here in /home/multzftb/public_html/curl.php on line 395
+[25-May-2021 12:16:33 America/New_York] PHP Notice:  Undefined index: here in /home/multzftb/public_html/curl.php on line 396
+[25-May-2021 12:16:33 America/New_York] PHP Notice:  Undefined index: here in /home/multzftb/public_html/curl.php on line 398
+[25-May-2021 12:16:33 America/New_York] PHP Notice:  Undefined index: here in /home/multzftb/public_html/curl.php on line 400
+[25-May-2021 12:24:10 America/New_York] PHP Notice:  Undefined index: here in /home/multzftb/public_html/curl.php on line 389
+[25-May-2021 12:24:10 America/New_York] PHP Notice:  Undefined index: here in /home/multzftb/public_html/curl.php on line 391
+[25-May-2021 12:24:10 America/New_York] PHP Notice:  Undefined index: here in /home/multzftb/public_html/curl.php on line 393
+[25-May-2021 12:24:10 America/New_York] PHP Notice:  Undefined index: here in /home/multzftb/public_html/curl.php on line 395
+[25-May-2021 12:24:10 America/New_York] PHP Notice:  Undefined index: here in /home/multzftb/public_html/curl.php on line 396
+[25-May-2021 12:24:10 America/New_York] PHP Notice:  Undefined index: here in /home/multzftb/public_html/curl.php on line 398
+[25-May-2021 12:24:10 America/New_York] PHP Notice:  Undefined index: here in /home/multzftb/public_html/curl.php on line 400
